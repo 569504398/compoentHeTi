@@ -1,0 +1,73 @@
+[{
+    "name": "用户管理",
+    "href": "",
+    "icon": "iconfont iconiconset0203",
+    "list": [{
+      "name": "用户列表",
+      "href": "users",
+      "list": []
+    }]
+  },
+
+  {
+    "name": "权限管理",
+    "href": "",
+    "icon": "iconfont iconquanxianfenji",
+    "list": [{
+        "name": "角色列表",
+        "href": "roles",
+        "list": []
+      },
+      {
+        "name": "权限列表",
+        "href": "customer/customerManagement",
+        "list": []
+      }
+    ]
+  },
+
+  {
+    "name": "商品管理",
+    "href": "",
+    "icon": "iconfont  iconshangpingouwudai2",
+    "list": [{
+        "name": "商品列表",
+        "href": "Pylons/classification",
+        "list": []
+      },
+      {
+        "name": "分类参数",
+        "href": "Pylons/information",
+        "list": []
+      },
+      {
+        "name": "商品分类",
+        "href": "Pylons/borrow",
+        "list": []
+      }
+    ]
+  },
+
+  {
+    "name": "订单管理",
+    "href": "",
+    "icon": "iconfont icondingdan",
+    "list": [{
+      "name": "订单管理",
+      "href": "order",
+      "list": []
+    }]
+  },
+
+  {
+    "name": "数据统计",
+    "href": "",
+    "icon": "iconfont iconshuju",
+    "list": [{
+      "name": "发货管理",
+      "href": "logistics",
+      "list": []
+    }]
+  }
+
+]
